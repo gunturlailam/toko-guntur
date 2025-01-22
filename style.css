@@ -1,0 +1,18 @@
+body {
+        background-image: url(images/background-sepatu.jpg);
+        background-size: auto;
+        background-repeat: no-repeat; 
+        background-position: center;
+        background-size: cover; 
+        height: 100vh;
+        display: flex;
+        justify-content: center;  /* Memusatkan secara horizontal */
+        align-items: center;      /* Memusatkan secara vertikal */
+        text-align: center;       /* Memastikan teks terpusat */
+        color: white;             /* Warna teks agar terlihat di atas latar belakang */
+        font-size: 2em;           /* Ukuran font */
+}
+
+h1{
+    color: aquamarine;    
+}
